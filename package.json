@@ -1,6 +1,6 @@
 {
   "name": "angularjs-datepicker",
-  "version": "2.1.23",
+  "version": "1.0",
   "description": "A datepicker directive for angularjs.",
   "homepage": "http://720kb.github.io/angular-datepicker",
   "keywords": [
@@ -19,7 +19,7 @@
   "main": "dist/angular-datepicker.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/720kb/angular-datepicker.git"
+    "url": "https://github.com/NewSonu/angular-datepicker.git"
   },
   "license": "MIT",
   "devDependencies": {
@@ -37,15 +37,8 @@
     "husky": "*"
   },
   "author": {
-    "name": "Filippo Oretti",
-    "email": "filippo.oretti@gmail.com",
-    "url": "https://github.com/45kb"
-  },
-  "contributors": [
-    {
-      "name": "Dario Andrei",
-      "email": "wouldgo84@gmail.com",
-      "url": "https://github.com/wouldgo"
-    }
-  ]
+    "name": "Sonali Gupte",
+    "email": "sonu6620@gmail.com",
+    "url": "https://github.com/NewSonu"
+  }
 }
